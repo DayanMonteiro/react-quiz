@@ -2,6 +2,14 @@
 
 Esse projeto é um teste técnico para uma rende de ensino, onde foi solicitado um quiz com questionário em mock devido a ser um teste front end não sendo necessário a criação de um back end para os dados da aplicação.
 
+Exemplo da página 
+
+![ex:-home](https://github.com/DayanMonteiro/Imagens/blob/master/img/super-ensino-home.jpeg)
+
+Ao selecionar uma das disciplinas abre um modal com o teste referente a matéria, ao selecionar uma resposta ela fica com sua letra destacada em outra cor, além disso temos botões para avançar ou retornar questões.
+
+![ex:-modal-aberto](https://github.com/DayanMonteiro/Imagens/blob/master/img/super-ensino-modal.jpeg)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
