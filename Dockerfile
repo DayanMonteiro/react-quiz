@@ -1,13 +1,14 @@
 FROM node:18
 
+ENV NODE_ENV development
+
 WORKDIR /app
 
+COPY package.json ./
+
+RUN yarn install --frozen-lockfile
+
+COPY . .
 EXPOSE 3000
 
-COPY package.json package-lock.json ./
-
-RUN npm install --silent
-
-COPY . ./
-
-CMD ["npm", "run", "start"]
+CMD [ "yarn", "start" ]
