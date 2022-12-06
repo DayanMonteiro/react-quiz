@@ -1,0 +1,2280 @@
+[
+  {
+    "name": "Educação básica",
+    "sub-title": "Aplicação do ensino educativo",
+    "questions": [
+      {
+        "id": 1,
+        "number-question": "1",
+        "title": "A educação básica é formada pelo(a):",
+        "description-one": "I- Educação Infantil.",
+        "description-two": "II- Ensino Fundamental.",
+        "description-three": "III- Ensino Médio.",
+        "sub-title": "Quais estão corretas?",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas I",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas II",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas III",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas I e II",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "I, II e III",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "number-question": "2",
+        "title": "A educação básica tem por finalidades:",
+        "description-one": "I- Desenvolver o educando.",
+        "description-two": "II- Assegurar a formação comum indispensável para o exercício da cidadania.",
+        "description-three": "III- Fornecer meios para progredir no trabalho e em estudos posteriores.",
+        "sub-title": "Quais estão corretas?",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas I",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas II",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas III",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas I e II",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "I, II e III",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "number-question": "3",
+        "title": "No que se refere às Diretrizes Curriculares nacionais para a Educação Básica, analise os itens a seguir e, ao final, assinale a alternativa correta:",
+        "description-one": "I- Organização e programação prioritariamente em forma de eixos e séries.",
+        "description-two": "II- Obrigatoriedade de 180 dias letivos de aulas, respeitando-se o calendário agrícola.",
+        "description-three": "III- Destinação de pelo menos 20% do total da carga horária anual aos programas e projetos interdisciplinares eletivos criados pela escola.",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas o item I é verdadeiro",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas o item II é verdadeiro",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas o item III é verdadeiro",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas os itens I e II são verdadeiros",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Todos os itens são verdadeiros",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "number-question": "4",
+        "title": "Levando em consideração que a Resolução CNE/CEB no 4, de 13 de julho de 2010, define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica, e que ela se baseia no direito que toda pessoa tem ao seu pleno desenvolvimento.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "No art. 11 da referida Resolução, a escola de Educação Básica é definida como “o espaço em que se ressignifica e se recria a cultura herdada, reconstruindo-se as identidades culturais, em que se aprende a valorizar as raízes próprias das diferentes regiões do País”. No parágrafo único desse artigo, consta que a concepção de escola descrita “privilegia trocas, acolhimento e aconchego, para garantir",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "o atendimento integral dos alunos, buscando ensinar os mesmos conteúdos e da mesma forma a todos eles, inclusive àqueles que apresentam necessidades educacionais especiais”.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "o cumprimento de todos os conteúdos programáticos previstos no currículo escolar, os quais devem ser elaborados pelos educadores de cada área de conhecimento”.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "a integração de crianças, adolescentes, jovens e adultos, no ritmo de estudo e de aprendizagem promovidos pela unidade de ensino”.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "o aprendizado significativo, por parte de todos os educandos, dos conteúdos programáticos estabelecidos pelo governo federal”.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "o bem-estar de crianças, adolescentes, jovens e adultos, no relacionamento entre todas as pessoas”.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "number-question": "5",
+        "title": "Levando em consideração que a Resolução CNE/CEB no 4, de 13 de julho de 2010, define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica, e que ela se baseia no direito que toda pessoa tem ao seu pleno desenvolvimento.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Segundo o art. 5o da Resolução CNE/CEB no 4, de 2010, “A Educação Básica é direito universal e alicerce indispensável para o exercício da cidadania em plenitude, da qual depende a possibilidade de conquistar todos os demais direitos, definidos na Constituição Federal, no Estatuto da Criança e do Adolescente (ECA), na legislação ordinária e nas demais disposições que consagram",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "as prerrogativas do cidadão”.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "a importância de mão de obra qualificada”.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "o êxito do cidadão no mercado de trabalho”.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "o sucesso do aluno nos cursos superiores",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "as vantagens de uma educação consistente”.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "number-question": "6",
+        "title": "Levando em consideração que a Resolução CNE/CEB no 4, de 13 de julho de 2010, define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica, e que ela se baseia no direito que toda pessoa tem ao seu pleno desenvolvimento.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Quando se trata da função social da escola, é preciso que se leve em conta o art. 8o da Resolução CNE/CEB no 4/2010: “A garantia de padrão de qualidade, com pleno acesso, inclusão e permanência dos sujeitos das aprendizagens na escola e seu sucesso, com redução da evasão, da retenção e da distorção de idade/ano/ série, resulta na qualidade social da educação, que é",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "um ideal ainda muito longínquo”.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "um sonho de educadores e familiares”.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "uma conquista pessoal dos estudantes”.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "uma conquista coletiva de todos os sujeitos do processo educativo”.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "uma busca contínua e uma construção gradual realizada por pais e professores”.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number-question": "7",
+        "title": "Levando-se em consideração a inseparabilidade entre o cuidar e o educar na Educação Básica, conforme disposto no art. 6o da Resolução CNE/CEB no 4/2010, é correto afirmar que essa inseparabilidade tem início",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "na Educação Infantil, a partir dos zero anos de vida.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "na Educação Infantil, a partir dos quatro anos de vida.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "no Ensino Fundamental, a partir dos seis anos de vida.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "no Ensino Fundamental, a partir dos onze anos de vida.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "no Ensino Médio, a partir dos quinze anos de vida.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "number-question": "8",
+        "title": "Tendo como referência os documentos Política Nacional de Educação Especial na Perspectiva Inclusiva e Diretrizes Curriculares Nacionais Gerais da Educação Básica, analise as seguintes afirmativas.",
+        "description-one": "I- O Censo Escolar, realizado anualmente em todas as escolas de Educação Básica, acompanha, na educação especial, indicadores de acesso à Educação Básica, matrícula na rede pública, inclusão nas classes comuns, oferta do atendimento educacional especializado, acessibilidade nos prédios escolares e o número de municípios e de escolas com matrícula de alunos com necessidades educacionais especiais.",
+        "description-two": "II- O atendimento educacional especializado (AEE), previsto pelo Decreto nº 6.571/2008, é parte integrante do processo educacional, sendo que os sistemas de ensino devem matricular os estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação nas classes comuns do ensino regular e no atendimento educacional especializado (AEE).",
+        "description-three": "III- A criança deve ter a possibilidade de fazer deslocamentos e movimentos amplos nos espaços internos e externos às salas de referência das turmas e à instituição, envolver-se em explorações e brincadeiras com objetos e materiais diversificados que contemplem as particularidades das diferentes idades, as condições específicas das crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação.",
+        "sub-title": "Estão corretas as afirmativas",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "I e II, apenas",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "I e III, apenas",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "II e III, apenas",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "I, II e III",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Nenhuma das alternativas",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "number-question": "9",
+        "title": "As Diretrizes Curriculares Nacionais (dcns) são normas obrigatórias para a Educação Básica que orientam o planejamento curricular das escolas e dos sistemas de ensino. Elas são discutidas, concebidas e fixadas pelo Conselho Nacional de Educação (CNE).",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "As Diretrizes buscam promover a equidade de aprendizagem, garantindo que conteúdos básicos sejam ensinados para todos os alunos, sem deixar de levar em consideração os diversos contextos nos quais eles estão inseridos. Mesmo depois que o Brasil elaborou a Base Nacional Comum Curricular (BNCC), as Diretrizes continuam valendo, porque os documentos são complementares: as Diretrizes dão a estrutura e a Base apresenta:",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "a organização das habilidades cognitivas, afetivas e motoras.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "a elaboração de atividades adequadas a cada faixa etária.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "a maneira como deve se realizar a interdisciplinaridade.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "o delineamento dos possíveis planejamentos de curso.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "o detalhamento de conteúdos e as competências.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "number-question": "10",
+        "title": "São objetivos das Diretrizes Curriculares Nacionais Gerais para a Educação Básica:",
+        "description-one": "I- Estimular a reflexão crítica e propositiva que deve subsidiar a formulação, a execução e a avaliação do projeto político-pedagógico da escola de Educação Básica.",
+        "description-two": "II- Orientar os cursos de formação inicial e continuada de docentes e demais profissionais da Educação Básica, os sistemas educativos dos diferentes entes federados e as escolas que os integram, indistintamente da rede a que pertençam.",
+        "description-three": "III- Sistematizar os princípios e as diretrizes gerais da Educação Básica contidos na Constituição, na Lei de Diretrizes e Bases da Educação Nacional (LDB) e demais dispositivos legais, traduzindo-os em orientações que contribuam para assegurar a formação básica comum nacional, tendo como foco os sujeitos que dão vida ao currículo e à escola.",
+        "sub-title": "Estão CORRETAS:",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "I e II, apenas",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "I e III, apenas",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "I, II e III, todos",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "II e III, apenas",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Nenhuma das alternativas",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "number-question": "11",
+        "title": "Assinale a alternativa correta quanto à composição da Educação Básica.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Fazem parte da Educação Básica: EI, EF e EM.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "A Educação Infantil não faz parte da Educação Básica.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Somente o EM faz parte da EB.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A Educação Básica é composta por Ensino Médio e graduação.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "O Ensino Médio não faz parte da Educação Básica.",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uso da Crase",
+    "sub-title": "Ensino da crase na língua portuguesa",
+    "questions": [
+      {
+        "id": 1,
+        "number-question": "1",
+        "title": "Sobre o emprego da crase, analise as afirmativas a seguir:",
+        "description-one": "I- Diante de verbos.",
+        "description-two": "II- Diante de artigos indefinidos.",
+        "description-three": "III- Diante de artigos definidos femininos quando o termo antecedente exigir preposição.",
+        "sub-title": "Está(ão) CORRETO(S) o(s) emprego(s) previsto(s) em:",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas III",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas I e II",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas II e III",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "I, II e III",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Todas as alternativas estão corretas",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "number-question": "2",
+        "title": "Leia os seguintes enunciados retirados de um texto de Joana de Angelis (www.facebook.com/joannadeangelisreformaintima) e marque a alternativa na qual o “A(AS)” NÃO deveria ter acento indicativo de crase.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "“Gratidão as oportunidades de trabalho, conquistas, evolução e progresso.”",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "“Gratidão a vida que me inspira, me renova e me dá chance de evoluir diariamente.”",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "“Gratidão a todos os órgãos do meu corpo que funcionam em plena harmonia e perfeição.”",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "“Gratidão a casa onde moro, que me serve de refúgio e descanso.”",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "“Gratidão as pessoas que me fizeram bem, porque me senti muito amado e abençoado.”",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "number-question": "3",
+        "title": "Considere o seguinte período e as correções abaixo apontadas para ele: Durante a sessão na Assembleia, recomendou-se que a lei orçamentária desse tratamento prioritário a área de atendimento à criança, conforme o previsto no art. 4º, par.único da Lei nº 8.069/90, e o art. 227, caput da constituição federal.",
+        "description-one": "I - O termo constituição federal deveria ser grafado com maiúsculas.",
+        "description-two": "II - Deveria haver crase no ‘a’ que precede área.",
+        "description-three": "III - Deveria haver vírgula tanto após par.único quanto após caput.",
+        "sub-title": "Quais correções deveriam ser realizadas?",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas II",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas I",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Todas alternativas estão corretas",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Todas as alternativas estão erradas",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Apenas III",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "number-question": "4",
+        "title": "Considere a seguinte passagem, para responder à questão: Há justificativa moral para a gratuidade: ela confere liberdade às pessoas. No processo educacional, funcionalidades são apropriadas pelos indivíduos, conferindo-lhes a possibilidade de serem livres e agentes, não dependentes e passivos.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Assinale a alternativa em que a reescrita da frase “… ela confere liberdade às pessoas.” atende à norma-padrão da língua portuguesa quanto ao uso do acento indicativo da crase.",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "… ela confere liberdade à diferentes tipos de pessoas.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "… ela confere liberdade à uma infinidade de pessoas.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "… ela confere liberdade à maior parte das pessoas.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "… ela confere liberdade à toda sorte de pessoas.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "… ela confere liberdade à algumas pessoas.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "number-question": "5",
+        "title": "No que se refere ao das expressões “as vezes/às vezes, analise as orações a seguir e, ao final, assinale a alternativa correta:",
+        "description-one": "I – Foram raras às vezes em que seu time foi campeão.",
+        "description-two": "II – Às vezes, viajamos juntos.",
+        "description-three": "III – Foram raras as vezes em que discutimos.",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas o item I é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas o item II é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas o item III é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas os itens II e III são verdadeiros.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Todos os itens são verdadeiros.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "number-question": "6",
+        "title": "Ainda no que se refere ao correto uso da crase, analise os itens a seguir e, ao final, assinale a alternativa correta:",
+        "description-one": "I - Contarei à Vossa Excelência todos os detalhes.",
+        "description-two": "II - Direi à Vossa Majestade o que penso.",
+        "description-three": "III - Relatarei a Vossa Senhoria o ocorrido.",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas o item I é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas o item II é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas o item III é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas os itens I e II são verdadeiros.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Nenhum dos itens é verdadeiro.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number-question": "7",
+        "title": "No que se refere ao correto uso da crase, analise os itens a seguir e, ao final, assinale a alternativa correta:",
+        "description-one": "I – Tenho muito à contribuir com a empresa.",
+        "description-two": "II – Ele lançava seus olhares à certas moças.",
+        "description-three": "III – Ele era fiel à disciplina militar.",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas o item I é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas o item II é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas o item III é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas os itens I e II são verdadeiros.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Todos os itens são verdadeiros.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "number-question": "8",
+        "title": "No que se refere ao correto uso da crase, analise os itens a seguir e, ao final, assinale a alternativa correta:",
+        "description-one": "I – O presidente ficou indiferente às críticas da população.",
+        "description-two": "II – Os portões serão abertos à partir das 21 horas.",
+        "description-three": "III – Com esse vestido não irei à nenhuma festa.",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas o item I é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas o item II é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas o item III é verdadeiro.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas os itens II e III são verdadeiros.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Nenhum dos itens é verdadeiro.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "number-question": "9",
+        "title": "A crase está corretamente empregada nas sentenças abaixo, Exceto:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Um bom projeto arquitetônico aproveita ao máximo a luz natural, mas é necessário ficar atento as condições climáticas de cada região em que às casas são construídas.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "As informações foram dadas à diretoria central.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "O dardo do atleta olímpico foi arremessado à distância de quarenta e dois metros.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Dirija-se àquele funcionário.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Vou à praia amanhã.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "number-question": "10",
+        "title": "O uso da crase está correto na alternativa:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": " Fomos à Las Vegas dos cassinos!",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Íamos de férias à Las Vegas…",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Visitamos à cassinos em Las Vegas.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "À Las Vegas fomos!",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Vou a praia amanhã.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "number-question": "11",
+        "title": "Opção que preenche corretamente as lacunas: O gerente dirigiu-se ___ sua sala e pôs-se ___ falar ___ todas as pessoas convocadas.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "à - à - à",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "a - à - à",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "à - a - a",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "a - a - à",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "à - a - à",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Geografia",
+    "sub-title": "Geografia geral",
+    "questions": [
+      {
+        "id": 1,
+        "number-question": "1",
+        "title": "A Base Nacional Comum Curricular – BNCC descreve que são competências específicas de geografia para o ensino fundamental, exceto:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Utilizar os conhecimentos geográficos para entender a interação sociedade / cultura e exercitar o interesse e o conhecimento da diversidade apenas nacional.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Estabelecer conexões entre diferentes temas do conhecimento geográfico, reconhecendo a importância dos objetos técnicos para a compreensão das formas como os seres humanos fazem uso dos recursos da natureza ao longo da história.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Desenvolver autonomia e senso crítico para compreensão e aplicação do raciocínio geográfico na análise da ocupação humana e produção do espaço, envolvendo os princípios de analogia, conexão, diferenciação, distribuição, extensão, localização e ordem.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": " Desenvolver o pensamento espacial, fazendo uso das linguagens cartográficas e iconográficas, de diferentes gêneros textuais e das geotecnologias para a resolução de problemas que envolvam informações geográficas.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Desenvolver e utilizar processos, práticas e procedimentos de investigação para compreender o mundo natural, social, econômico, político e o meio técnico-científico e informacional, avaliar ações e propor perguntas e soluções (inclusive tecnológicas) para questões que requerem conhecimentos científicos da Geografia.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "number-question": "2",
+        "title": "O componente Geografia, da Base Nacional Comum Curricular (BNCC), foi dividido em unidades temáticas comuns ao longo do Ensino Fundamental, em uma progressão das habilidades. Quais são essas habilidades?",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "A construção do espaço: os territórios e os lugares (o tempo da sociedade e o tempo da natureza); A Geografia como uma possibilidade de leitura e compreensão do mundo; O estudo da natureza e sua importância para o homem; O campo e a cidade como formações socioespaciais; A cartografia como instrumento na aproximação dos lugares e do mundo.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "O sujeito e seu lugar no mundo; Conexões e escalas; Mundo do trabalho; Formas de representação e pensamento espacial; Natureza, ambientes e qualidade de vida.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": " A evolução das tecnologias e as novas territorialidades em redes; Um só mundo e muitos cenários geográficos; Modernização, modo de vida e problemática ambiental; A cartografia como instrumento na aproximação dos lugares e do mundo; O sujeito e seu lugar no mundo.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "O campo e a cidade como formações socioespaciais; Mundo do trabalho; Conexões e escalas; A construção do espaço: os territórios e os lugares (o tempo da sociedade e o tempo da natureza); A Geografia como uma possibilidade de leitura e compreensão do mundo.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "A cartografia como instrumento na aproximação dos lugares e do mundo; O sujeito e seu lugar no mundo; O campo e a cidade como formações socioespaciais; Mundo do trabalho; Conexões e escalas.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "number-question": "3",
+        "title": "(UFAM) “Como dispositivo de múltiplos usos, o telefone celular tem servido cada vez mais de suporte para convergência de mídia, potencialidade que o tem tornado alvo de investimentos por parte da indústria. Há previsões de que, em 2020, os dispositivos móveis serão o maior meio de acesso à internet.” (RODRIGUES, Carla. Revista Galáxia, São Paulo, n. 20, 2010).",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "O contexto da citação acima se refere a uma das principais características do:",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Capitalismo industrial.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Capitalismo financeiro.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Capitalismo informacional.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Capitalismo comercial.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Capitalismo da exploração.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "number-question": "4",
+        "title": "Assinale a alternativa correta.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "As Tecnologias da Informação e Comunicação (TIC) aumentaram exponencialmente a quantidade de informação ao mesmo tempo em que não significou aumento do conhecimento.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "As redes sociais, como o facebook, possibilitam a aproximação das pessoas, eliminando, assim, o isolamento que estas teriam sem a presença dessas redes.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "O desenvolvimento tecnológico pouco alterou a relação das sociedades com seus espaços geográficos.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A produção de bens materiais pela atividade industrial sofreu alteração com as novas tecnologias, mas não alterou a relação de trabalho.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "A coexistência de técnicas e culturas diversas que se fazem presentes no espaço, diferenciando lugares e povos, apesar de todo o processo de globalização que tende à uniformização.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "number-question": "5",
+        "title": "Uma malha digital que cresce em velocidade vertiginosa está cobrindo nosso planeta: é a internet, a rede mundial de computadores. Considerando essa importante inovação tecnológica contemporânea, analise a informação: A integração econômica global é facilitada pelo uso das mesmas técnicas, contudo, integrar não significa incluir a todos.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Com base nas informações e em seus conhecimentos, escolha a alternativa que melhor explica a afirmativa apresentada.",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "A era da informação e da revolução científica prioriza a qualificação da mão-de-obra e a incorporação de novas habilidades, reconhecendo a diferença existente entre ricos e pobres.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "A velocidade da informação é o benefício apresentado pela internet para a globalização, pois reduz o espaço mundial a um espaço virtual, sem a necessidade de integrar a todos os internautas.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "A internacionalização da rede e a incorporação de centenas de milhões de usuários por todo o planeta exclui as diferenças culturais e econômicas devido à mundialização dos padrões de consumo.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A internet dinamizou e tornou imediatas transações e negociações em escala mundial, evitando a exclusão digital pelas parcerias com empresas e investimentos em inovações tecnológicas.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Ao mesmo tempo em que a internet facilita o processo de integração econômica global, é também responsável pela chamada exclusão digital, pois acentua a distância entre os usuários e aqueles que já viviam em situação de marginalidade econômica e social.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "number-question": "6",
+        "title": "Uma malha digital que cresce em velocidade vertiginosa está cobrindo nosso planeta: é a internet, a rede mundial de computadores. Considerando essa importante inovação tecnológica contemporânea, analise a informação: A integração econômica global é facilitada pelo uso das mesmas técnicas, contudo, integrar não significa incluir a todos.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Com base nas informações e em seus conhecimentos, escolha a alternativa que melhor explica a afirmativa apresentada.",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "A era da informação e da revolução científica prioriza a qualificação da mão de obra e a incorporação de novas habilidades, reconhecendo a diferença existente entre ricos e pobres.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "A velocidade da informação é o benefício apresentado pela internet para a globalização, pois reduz o espaço mundial a um espaço virtual, sem a necessidade de integrar a todos os internautas.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "A internacionalização da rede e a incorporação de centenas de milhões de usuários por todo o planeta excluem as diferenças culturais e econômicas devido à mundialização dos padrões de consumo.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A internet dinamizou e tornou imediatas transações e negociações em escala mundial, evitando a exclusão digital pelas parcerias com empresas e investimentos em inovações tecnológicas.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Ao mesmo tempo em que a internet facilita o processo de integração econômica global, é também responsável pela chamada exclusão digital, pois acentua a distância entre os usuários e aqueles que já viviam em situação de marginalidade econômica e social.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number-question": "7",
+        "title": "O espaço geográfico, ao contrário do espaço natural, é um produto da ação do homem. O homem, sendo um animal social, naturalmente atua em conjunto, em grupo, daí ser o espaço geográfico eminentemente social. (…) A ação do homem não ocorre de forma uniforme no espaço e no tempo. Ela se faz de forma mais intensa em determinados momentos e nas áreas, onde se pode empregar uma tecnologia mais avançada ou em que se dispõe de capitais mais do que naquelas em que se dispõe de menores recursos e conhecimentos. Daí a necessidade de uma visão do processo histórico, levando-se em conta tanto o processo evolutivo linear como os desafios que se contrapõem a este processo e que barram ou desviam da linha por ele seguida. Para melhor compreender o processo de produção do espaço geográfico, é indispensável a utilização de conceitos hoje largamente aceitos nas ciências sociais, como os de modo de produção e de formação econômico-sociais. Ao analisarmos a evolução da humanidade e da conquista da natureza pelo homem, temos que admitir que esse começou a produzir o espaço geográfico na ocasião em que pôde abandonar as atividades de caça, pesca e coleta como principais e passou a realizar trabalhos agrícolas e de criação de animais. Claro que a passagem foi feita lentamente e que o homem, transformado em agricultor e criador de animais, continuou a caçar e a pescar, como o faz até os dias atuais, mas essas atividades, antes exclusivas, tornaram-se complementares.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "É CORRETO afirmar que o autor, no texto que você acabou de ler,",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Opõe-se à posição filosófica assumida pelos geógrafos que defendem a Geografia Crítica.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Estabelece os mais importantes princípios que norteiam o Determinismo Geográfico, uma das correntes fundamentais da Geografia Clássica que explica a produção do espaço geográfico.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Defende que o espaço natural, por suas características particulares, assemelha-se ao espaço social e que deve ser estudado pela História e pela Geografia.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Advoga que a produção do espaço geográfico é uma função dos níveis técnico e econômico em que se encontra a sociedade.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Propõe que, para o equilíbrio do Sistema Terra, é necessário os seres humanos retornarem às atividades extrativas, especialmente a caça e a pesca, e também à agricultura tradicional.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "number-question": "8",
+        "title": "Grande parte dos avanços tecnológicos integra o processo evolutivo da comunicação, conduzindo-nos para uma maior democratização da informação e, consequentemente, do saber. A comunicação virtual introduz um conceito de descentralização da informação e do poder de comunicar. Todo computador, conectado à internet, possui a capacidade de transmitir palavras, imagens, sons. Não se limita apenas aos donos de jornais e emissoras; qualquer pessoa pode construir um site na internet, sobre qualquer assunto e propagá-lo de maneira simples. O espaço cibernético tem se tornado um lugar essencial, um futuro próximo de comunicação completamente distinta da mídia clássica. […]. A internet proporciona a interação entre locutor e interlocutor, uma vez que, na rede, qualquer elemento adquire a possibilidade de interação, havendo interconexões entre pessoas dos mais diferentes lugares do planeta, facilitando, portanto, o contato entre elas, assim como a busca por opiniões e ideias convergentes. Uma prova da eficiência da internet em construir esse ideal de propagação de mensagens e opiniões está na multiplicidade de temas que podem ser encontrados nela. Além dos sites, as listas de discussão, que agregam pessoas interessadas em um dado assunto, também merecem consideração. É nesse ponto que a internet se sobressai, pois integra e condensa nela todos os recursos de todas as formas de comunicação, como jornal, por exemplo. Além de apresentar todas as funções do jornalismo, que, segundo Beltrão são econômica, social, educativa e de entretenimento, ela é um meio de comunicação interativo. Além disso, há a questão da dinamicidade e da interatividade: o espaço virtual, diferentemente de um texto de jornal ou revista em papel, está constantemente em movimento.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "A partir da leitura, marque a alternativa que informa a ideia central do texto:",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "A descentralização da informação advinda da internet pode ser usada a favor dos donos de jornais.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "O jornal e a revista em papel devem desaparecer, pois perderam espaço para as mídias virtuais e sua interatividade.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Todo jornal deve englobar questões socioeconômicas e culturais, a fim de deixar seu leitor bem informado.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "No espaço cibernético, não há uma fiscalização das informações publicadas, tendo em vista que qualquer um pode criar um site.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "A internet, no processo de evolução da comunicação, possibilitou uma maior interação entre as pessoas, as quais recebem e publicam informações sobre os mais diversos temas.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "number-question": "9",
+        "title": "Sobre a Revolução Informacional e suas implicações para a reorganização do mundo contemporâneo, podemos afirmar que:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Alguns Estados e um conjunto diminuto de grandes empresas controlam o essencial da revolução tecnológica em curso, atualizando o desenvolvimento geograficamente desigual.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Dado o alcance planetário do sistema técnico informacional, a população tem amplo acesso a uma informação verdadeira que unifica os lugares, tornando o mundo uma democrática aldeia global.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Há um acentuado enfraquecimento das funções de gestão das metrópoles, processo determinado pela descentralização da produção, apoiada no uso intensivo das tecnologias da informação e comunicação.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Os mais diversos fluxos de informações perpassam as fronteiras nacionais, anulando o papel do Estado-Nação como ente regulador e definidor de estratégias no jogo político mundial.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "A internet, no processo de evolução da comunicação, possibilitou uma maior interação entre as pessoas, as quais recebem e publicam informações sobre os mais diversos temas.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "number-question": "10",
+        "title": "Em Beirute, no Líbano, quando perguntado sobre onde se encontram os refugiados sírios, a resposta do homem é imediata: “em todos os lugares e em lugar nenhum”. Andando ao acaso, não é raro ver, sob um prédio ou num canto de calçada, ao abrigo do vento, uma família refugiada em volta de uma refeição frugal posta sobre jornais como se fossem guardanapos. Também se vê de vez em quando uma tenda com a sigla ACNUR (Alto Comissariado das Nações Unidas para Refugiados), erguida em um dos raros terrenos vagos da capital.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "O cenário descrito aponta para uma crise humanitária que é explicada pelo processo de",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Migração massiva de pessoas atingidas por catástrofe natural.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Hibridização cultural de grupos caracterizados por homogeneidade social.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Desmobilização voluntária de militantes cooptados por seitas extremistas.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Peregrinações religiosas de fiéis orientados por lideranças fundamentalistas.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Desterritorialização forçada de populações afetadas por conflitos armados.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "number-question": "11",
+        "title": "Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma transmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Em meados do século XX, o fenômeno social descrito contribuiu para o processo europeu de",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Estabilização da pirâmide etária.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Conclusão da transição demográfica.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Contenção da entrada de imigrantes.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Elevação do crescimento vegetativo.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Formação de espaços superpovoados.",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matemática",
+    "sub-title": "Questões matemáticas aplicadas ao ensino médio",
+    "questions": [
+      {
+        "id": 1,
+        "number-question": "1",
+        "title": "Em uma maquete de um condomínio, um de seus prédios de 80 metros de altura está com apenas 48 centímetros. A altura de um outro prédio de 110 metros nessa maquete, mantidas as devidas proporções, em centímetros, será de:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "56",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "60",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "66",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "72",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "78",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "number-question": "2",
+        "title": "A razão entre o peso de uma pessoa na Terra e o seu peso em Netuno é 5/7. Dessa forma, o peso de uma pessoa que na terra pesa 60 kg, em Netuno, está no intervalo",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "[40 kg; 45 kg]",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "[45 kg; 50 kg]",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "[55 kg; 60 kg]",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "[75 kg; 80 kg]",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "[80 kg; 85 kg]",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "number-question": "3",
+        "title": "Uma mistura é composta de 90 kg de água e 10 kg de sal. Pondo-a para evaporar, obtém-se uma nova mistura da qual 24 kg contém 3 kg de sal. Determine a quantidade de água evaporada.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "60",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "50",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "30",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "40",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "20",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "number-question": "4",
+        "title": " Sabe-se que a distância real, em linha reta, de uma cidade A, localizada no estado de São Paulo, a uma cidade B, localizada no estado de Alagoas, é igual a 2 000 km. Um estudante, ao analisar um mapa, verificou com sua régua que a distância entre essas duas cidades, A e B, era 8 cm.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Os dados nos indicam que o mapa observado pelo estudante está na escala de",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "1 : 250.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "1 : 2 500.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "1 : 25 000.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "1 : 250 000.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "1 : 25 000 000.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "number-question": "5",
+        "title": "Em uma seleção, a razão entre o número de homens e mulheres candidatos a vaga é 4/7. Sabendo que 32 candidatos são do sexo masculino, o número total de participantes na seleção é:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "56",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "72",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "88",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "94",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "21",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "number-question": "6",
+        "title": "Gustavo estava treinando pênaltis caso precisasse na final dos jogos de futebol escolares. Sabendo que de 14 chutes ao gol ele acertou 6, qual a razão do número de acertos para o total de chutes?",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": " 3/5",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": " 3/7",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "7/3",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "5/3",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "2/7",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number-question": "7",
+        "title": "Um concurso para preencher 200 vagas recebeu 1600 inscrições. Quantos candidatos há para cada vaga?",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "4",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "6",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "8",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "12",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "14",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "number-question": "8",
+        "title": "As raízes da equação 2x2 + bx + c = 0 são 3 e − 4. Nesse caso, o valor de b - c é",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "−26.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "−22.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "-1.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "22",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "26",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "number-question": "9",
+        "title": "Uma função quadrática f é dada por f(x) = x2 + bx + c, com b e c reais. Se f(1) = –1 e f(2) – f(3) = 1, o menor valor que f(x) pode assumir, quando x varia no conjunto dos números reais, é igual a",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "-12",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "-6",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "-10",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "-5",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "-9",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "number-question": "10",
+        "title": "Qual o resultado obtido com a realização da soma e da subtração, respectivamente, dos números complexos z1 = 3 + i e z2 = 1 + 2i?",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "2 + 3i e 1 – i",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "3 + 2i e -4 – i",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "4 + 3i e 2 – i",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "1 + 2i e -3 – i",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "3 + 2i e -4 – i",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "number-question": "11",
+        "title": "Qual a forma algébrica de z no caso 3z = z - (- 8 + 6i)?",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "z = 4 – 2i",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "z = 4 – 3i",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "z = 2 – 2i",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "z = 1 – 2i",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "z = 5 – 4i",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alfabetização infantil",
+    "sub-title": "A importância da alfabetização",
+    "questions": [
+      {
+        "id": 1,
+        "number-question": "1",
+        "title": "Antes de mais nada “Para aprender a ler e escrever, a criança precisa construir um conhecimento de natureza conceitual.” (BRASIL, 2001, vol. 3, p. 122). Com base na citação significa defender a alfabetização como:",
+        "description-one": "I- Função da maturação biológica.",
+        "description-two": "II- Desenvolvimento de capacidades relacionadas à percepção, memorização e treino de um conjunto de habilidades sensório-mecânicas.",
+        "description-three": "III-  Um processo de construção de conhecimento pelas crianças por meio de práticas que têm como ponto de partida e de chegada o uso da linguagem e a participação nas diversas práticas sociais e de escrita",
+        "sub-title": "Está(ão) correto(s) apenas o(s) itens(s):",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas I",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas II",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas III",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas I e II",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Todas as alternativas",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "number-question": "2",
+        "title": "De acordo com linguagem, assinale a afirmativa INCORRETA.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "A formação literária dos sujeitos está sustentada na concepção do papel da literatura na constituição social do indivíduo e da coletividade.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "A literatura contribui para desenvolver as capacidades interpretativas amplas dos leitores, as quais favorecem uma socialização mais rica.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "As relações entre fala e escrita e a apropriação do sistema de escrita alfabética são os únicos conhecimentos necessários para que a criança se alfabetize.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A escola tem função importante na preservação do patrimônio cultural da infância, uma vez que é mais um espaço de encontro da criança com a linguagem, em sua dimensão lúdica e histórica, o que contribui para a construção da identidade.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "A formação literária é um processo natural a qualquer indivíduo",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "number-question": "3",
+        "title": "A respeito da oralidade, certamente marque V para as afirmativas verdadeiras e F para as falsas",
+        "description-one": "( ) É uma das formas de o sujeito participar de processos de interação nas situações de comunicação informais ou formais.",
+        "description-two": "( ) A oralidade e a escrita são duas modalidades da língua diferentes, mas dependentes.",
+        "description-three": "( ) É uma produção sonora todavia envolve ainda recursos, como gestualidade, movimentos do corpo e mímica, tom e velocidade de voz, dentre outros.",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "V, F, V.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "F, F, V",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Todas alternativas são V",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Todas as alternativas são F",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "V, F, F.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "number-question": "4",
+        "title": "Dessa forma as múltiplas linguagens no desenvolvimento infantil, assinale a afirmativa INCORRETA.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Através do jogo simbólico a criança inventa, imagina, representa e se expressa, certamente desempenhar vários papéis.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "É a linguagem do jogo simbólico que aguça na criança a imaginação, fantasia, vontade de descobrir e em suma conseqüentemente compreender o mundo.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Trabalhar as múltiplas linguagens na educação infantil significa contudo contribuir nos aspectos cognitivos, psicomotores, afetivos e sociais.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A literatura infantil exerce um papel fundamental na educação infantil pois, a linguagem literária organiza os fatos de forma similar da linguagem oral do cotidiano.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "No relacionamento entre todas as crianças representam sua própria linguagem”.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "number-question": "5",
+        "title": "De acordo com a alfabetização e o letramento no desenvolvimento da escrita, assinale a alternativa INCORRETA.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Ao atingir a escrita alfabética, portanto a criança já está alfabetizada e domina as questões ortográficas.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": " A criança no início do desenvolvimento, assim não considera as palavras com menos de três caracteres, nem os artigos.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Na hora da leitura é importante que o professor indique a direção de onde está começando e terminando a frase.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A entonação vai ajudar a criança criar hipótese, assim sendo é a partir da sua maturação que ela vai desenvolver a identificação das palavras sem imagens.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Educação consistente explora diversos aspectos da escrita alfabética e formas simbólicas de escrita”.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "number-question": "6",
+        "title": "Sobre a alfabetização e o letramento o desenvolvimento da escrita, analise as afirmativas a seguir.",
+        "description-one": "I - É através da linguagem falada que a escrita vai desenvolver e no decorrer do brincar a criança cria situações, por isso é importante o estímulo da criança para o desenho.",
+        "description-two": "II - Em outras palavras à pedagogia desenvolver atividades que proporcione o desenvolvimento da escrita, logo com práticas pedagógicas em que o mediador deverá provocar experiências para as crianças com o ambiente rico e vivo, para que possam trabalhar com o imaginário.",
+        "description-three": "III - Antes de entrar na escola a criança já traz consigo as habilidades da escrita e essa escrita é instrumentada.",
+        "sub-title": "Está(ão) correta(s) a(s) afirmativa(s)",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "I, II e III.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas I.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas I e II.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas II e III",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Nenhuma das alternativas são corretas",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number-question": "7",
+        "title": "Contudo a alfabetização e o letramento analise as afirmativas abaixo:",
+        "description-one": "I – A alfabetização é apenas um processo baseado em perceber e memorizar para aprender a ler e escrever. Contudo o aluno precisa construir um conhecimento de natureza conceitual.",
+        "description-two": "II – O letramento surge a partir das novas relações estabelecidas com as práticas de leitura e escrita na sociedade, ao passo que não basta apenas saber ler e escrever, mas que funções a leitura e a escrita assumem em decorrência das novas exigências impostas pela cultura letrada.",
+        "description-three": "III – A alfabetização refere-se à aquisição da escrita enquanto aprendizagem de habilidades pela leitura, escrita e as chamadas práticas de linguagem.",
+        "sub-title": "Está CORRETO o que se afirma em:",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Apenas as afirmativas I, II e III.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apenas as afirmativas I, III",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Apenas as afirmativas II e III.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Apenas as afirmativas II.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Apenas I",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "number-question": "8",
+        "title": "Assinale a alternativa INCORRETA como resultado a alfabetização:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Todavia a alfabetização se ocupa da aquisição da escrita pelo indivíduo ou grupos de indivíduos.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "A alfabetização deve se desenvolver em um contexto de letramento todavia o início da aprendizagem da escrita.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "A alfabetização nesse sentido é o exercício do aprendizado automático e repetitivo, baseado na descontextualização.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "A alfabetização igualmente é a ação de fazer com que a pessoa se aproprie de habilidades que levam a leitura e a escrita.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "A avaliação deve ter um caráter formativo, não punitivo ou de premiação. ",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "number-question": "9",
+        "title": "Considerando o ensino da música e sua importância para o desenvolvimento da criança, entretanto no que se refere à construção das linguagens musicais, dentro de uma normalidade aceitável, afastados problemas de saúde de qualquer natureza, assinale a alternativa correta.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Nos primeiros três meses de vida, a criança aprende a falar, por isso é tão importante que ela escute músicas com letras em várias línguas modernas.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Entre os dois e os três anos de idade, a criança, que já tem completo desenvolvimento de suas atividades motoras, não precisa mais ser estimulada a compreender conceitos numéricos.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "É na fase da educação infantil que a criança está mais aberta às descobertas, então nessa fase, o desenvolvimento da aprendizagem é evidenciado e a música portanto pode ser empregada para facilitar e ampliar a aquisição de conhecimentos por meio de escutas, imitações e improvisações.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Somente a partir dos dez anos de idade, a criança começa a compreender logo conceitos como antes e depois, em cima e em baixo, ontem, hoje e amanhã, portanto, de nada adianta submetê-la, primeiramente antes da mencionada idade, a qualquer tipo de incentivo a tais compreensões.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Musicalização não é importante para o desenvolvimento da criança.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "number-question": "10",
+        "title": "De acordo com uma atividade de linguagem escrita, Laura (6 anos) escreveu: “LEITI” (leite) então a professora pede que ela leia o que escreveu e como pensou sobre aquela escrita.",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "Refletindo em suma do trabalho da criança, a principio de uma perspectiva que considere o conhecimento um processo a ser construído a partir da relação entre o que se sabe e o objeto de conhecimento, a professora constatou que a aluna",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "Afinal ainda não conhece bem a relação fonema-grafema e, por isso, errou ao escrever a letra “I” no lugar da letra “E”, ao final da palavra.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Apresentou uma relação de transcrição direta da fala para a escrita, porque em comum no processo de construção da base alfabética.",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "Errou por estar desatenta em seu trabalho, sendo então melhor que repita a atividade.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "Não aprendeu ainda a grafia das letras do alfabeto e por isso não completou a escrita da letra E ao final da palavra.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Errou por não ter aprendido adequadamente a família do TA-TE-TI-TO-TU, todavia deve repetir essa unidade.",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "number-question": "11",
+        "title": "Há uma certa relação entre a história da escrita na humanidade e a maneira como a criança se deselvolve rumo à alfabetização (Cocco, 1996). Quanto a isso, cabe dizer que:",
+        "description-one": "",
+        "description-two": "",
+        "description-three": "",
+        "sub-title": "",
+        "answers": [
+          {
+            "id": 1,
+            "title": "a",
+            "text": "O ser humano partiu do pictórico e construiu uma simbologia (alfabeto). De maneira similar, a criança inicia a representação do mundo por meio da escrita e chega às regras sistemáticas.",
+            "checked": false
+          },
+          {
+            "id": 2,
+            "title": "b",
+            "text": "Não existe relação direta entre história da escrita na humanidade e a maneira como a criança se desenvolve rumo a alfabetização",
+            "checked": false
+          },
+          {
+            "id": 3,
+            "title": "c",
+            "text": "O ser humano partiu do pictórico e reconstruiu a representação do mundo por meio d gesto ou do desenho, e assim chegou ao simbolo e às regras sistemáticas.",
+            "checked": false
+          },
+          {
+            "id": 4,
+            "title": "d",
+            "text": "O ser humano partiu de simbolos fonográficos e construiu uma simbologia. De maneira similar, a criança inicia a representação do mundo por meio do simbolo fonográfico e inicia o entendimento das regras sistemáticas reconstruindo o código linguístico.",
+            "checked": false
+          },
+          {
+            "id": 5,
+            "title": "e",
+            "text": "Não existe relação alguma entre história da escrita na humanidade e a maneira como a criança se desenvolve rumo a alfabetização. São situações distintas e incomparáveis.",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  }
+]

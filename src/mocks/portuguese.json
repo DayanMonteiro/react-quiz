@@ -1,0 +1,454 @@
+[
+  {
+    "id": "1762",
+    "number-question": "1",
+    "title": "A educação básica é formada pelo(a):",
+    "description-one": "I- Educação Infantil.",
+    "description-two": "II- Ensino Fundamental.",
+    "description-three": "III- Ensino Médio.",
+    "sub-title": "Quais estão corretas?",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "Apenas I",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "Apenas II",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "Apenas III",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "Apenas I e II",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "I, II e III",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "1810",
+    "number-question": "2",
+    "title": "A educação básica tem por finalidades:",
+    "description-one": "I- Desenvolver o educando.",
+    "description-two": "II- Assegurar a formação comum indispensável para o exercício da cidadania.",
+    "description-three": "III- Fornecer meios para progredir no trabalho e em estudos posteriores.",
+    "sub-title": "Quais estão corretas?",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "Apenas I",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "Apenas II",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "Apenas III",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "Apenas I e II",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "I, II e III",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "number-question": "3",
+    "title": "No que se refere às Diretrizes Curriculares nacionais para a Educação Básica, analise os itens a seguir e, ao final, assinale a alternativa correta:",
+    "description-one": "I- Organização e programação prioritariamente em forma de eixos e séries.",
+    "description-two": "II- Obrigatoriedade de 180 dias letivos de aulas, respeitando-se o calendário agrícola.",
+    "description-three": "III- Destinação de pelo menos 20% do total da carga horária anual aos programas e projetos interdisciplinares eletivos criados pela escola.",
+    "sub-title": "",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "Apenas o item I é verdadeiro",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "Apenas o item II é verdadeiro",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "Apenas o item III é verdadeiro",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "Apenas os itens I e II são verdadeiros",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "Todos os itens são verdadeiros",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "5720",
+    "number-question": "4",
+    "title": "Levando em consideração que a Resolução CNE/CEB no 4, de 13 de julho de 2010, define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica, e que ela se baseia no direito que toda pessoa tem ao seu pleno desenvolvimento.",
+    "description-one": "",
+    "description-two": "",
+    "description-three": "",
+    "sub-title": "No art. 11 da referida Resolução, a escola de Educação Básica é definida como “o espaço em que se ressignifica e se recria a cultura herdada, reconstruindo-se as identidades culturais, em que se aprende a valorizar as raízes próprias das diferentes regiões do País”. No parágrafo único desse artigo, consta que a concepção de escola descrita “privilegia trocas, acolhimento e aconchego, para garantir",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "o atendimento integral dos alunos, buscando ensinar os mesmos conteúdos e da mesma forma a todos eles, inclusive àqueles que apresentam necessidades educacionais especiais”.",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "o cumprimento de todos os conteúdos programáticos previstos no currículo escolar, os quais devem ser elaborados pelos educadores de cada área de conhecimento”.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "a integração de crianças, adolescentes, jovens e adultos, no ritmo de estudo e de aprendizagem promovidos pela unidade de ensino”.",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "o aprendizado significativo, por parte de todos os educandos, dos conteúdos programáticos estabelecidos pelo governo federal”.",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "o bem-estar de crianças, adolescentes, jovens e adultos, no relacionamento entre todas as pessoas”.",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "number-question": "5",
+    "title": "Levando em consideração que a Resolução CNE/CEB no 4, de 13 de julho de 2010, define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica, e que ela se baseia no direito que toda pessoa tem ao seu pleno desenvolvimento.",
+    "description-one": "",
+    "description-two": "",
+    "description-three": "",
+    "sub-title": "Segundo o art. 5o da Resolução CNE/CEB no 4, de 2010, “A Educação Básica é direito universal e alicerce indispensável para o exercício da cidadania em plenitude, da qual depende a possibilidade de conquistar todos os demais direitos, definidos na Constituição Federal, no Estatuto da Criança e do Adolescente (ECA), na legislação ordinária e nas demais disposições que consagram",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "as prerrogativas do cidadão”.",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "a importância de mão de obra qualificada”.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "o êxito do cidadão no mercado de trabalho”.",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "o sucesso do aluno nos cursos superiores",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "as vantagens de uma educação consistente”.",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "number-question": "6",
+    "title": "Levando em consideração que a Resolução CNE/CEB no 4, de 13 de julho de 2010, define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica, e que ela se baseia no direito que toda pessoa tem ao seu pleno desenvolvimento.",
+    "description-one": "",
+    "description-two": "",
+    "description-three": "",
+    "sub-title": "Quando se trata da função social da escola, é preciso que se leve em conta o art. 8o da Resolução CNE/CEB no 4/2010: “A garantia de padrão de qualidade, com pleno acesso, inclusão e permanência dos sujeitos das aprendizagens na escola e seu sucesso, com redução da evasão, da retenção e da distorção de idade/ano/ série, resulta na qualidade social da educação, que é",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "um ideal ainda muito longínquo”.",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "um sonho de educadores e familiares”.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "uma conquista pessoal dos estudantes”.",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "uma conquista coletiva de todos os sujeitos do processo educativo”.",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "uma busca contínua e uma construção gradual realizada por pais e professores”.",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "963",
+    "number-question": "7",
+    "title": "Levando-se em consideração a inseparabilidade entre o cuidar e o educar na Educação Básica, conforme disposto no art. 6o da Resolução CNE/CEB no 4/2010, é correto afirmar que essa inseparabilidade tem início",
+    "description-one": "",
+    "description-two": "",
+    "description-three": "",
+    "sub-title": "",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "na Educação Infantil, a partir dos zero anos de vida.",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "na Educação Infantil, a partir dos quatro anos de vida.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "no Ensino Fundamental, a partir dos seis anos de vida.",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "no Ensino Fundamental, a partir dos onze anos de vida.",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "no Ensino Médio, a partir dos quinze anos de vida.",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "number-question": "8",
+    "title": "Tendo como referência os documentos Política Nacional de Educação Especial na Perspectiva Inclusiva e Diretrizes Curriculares Nacionais Gerais da Educação Básica, analise as seguintes afirmativas.",
+    "description-one": "I- O Censo Escolar, realizado anualmente em todas as escolas de Educação Básica, acompanha, na educação especial, indicadores de acesso à Educação Básica, matrícula na rede pública, inclusão nas classes comuns, oferta do atendimento educacional especializado, acessibilidade nos prédios escolares e o número de municípios e de escolas com matrícula de alunos com necessidades educacionais especiais.",
+    "description-two": "II- O atendimento educacional especializado (AEE), previsto pelo Decreto nº 6.571/2008, é parte integrante do processo educacional, sendo que os sistemas de ensino devem matricular os estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação nas classes comuns do ensino regular e no atendimento educacional especializado (AEE).",
+    "description-three": "III- A criança deve ter a possibilidade de fazer deslocamentos e movimentos amplos nos espaços internos e externos às salas de referência das turmas e à instituição, envolver-se em explorações e brincadeiras com objetos e materiais diversificados que contemplem as particularidades das diferentes idades, as condições específicas das crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação.",
+    "sub-title": "Estão corretas as afirmativas",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "I e II, apenas",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "I e III, apenas",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "II e III, apenas",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "I, II e III",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "Nenhuma das alternativas",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "7624",
+    "number-question": "9",
+    "title": "As Diretrizes Curriculares Nacionais (dcns) são normas obrigatórias para a Educação Básica que orientam o planejamento curricular das escolas e dos sistemas de ensino. Elas são discutidas, concebidas e fixadas pelo Conselho Nacional de Educação (CNE).",
+    "description-one": "",
+    "description-two": "",
+    "description-three": "",
+    "sub-title": "As Diretrizes buscam promover a equidade de aprendizagem, garantindo que conteúdos básicos sejam ensinados para todos os alunos, sem deixar de levar em consideração os diversos contextos nos quais eles estão inseridos. Mesmo depois que o Brasil elaborou a Base Nacional Comum Curricular (BNCC), as Diretrizes continuam valendo, porque os documentos são complementares: as Diretrizes dão a estrutura e a Base apresenta:",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "a organização das habilidades cognitivas, afetivas e motoras.",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "a elaboração de atividades adequadas a cada faixa etária.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "a maneira como deve se realizar a interdisciplinaridade.",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "o delineamento dos possíveis planejamentos de curso.",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "o detalhamento de conteúdos e as competências.",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "3521",
+    "number-question": "10",
+    "title": "São objetivos das Diretrizes Curriculares Nacionais Gerais para a Educação Básica:",
+    "description-one": "I- Estimular a reflexão crítica e propositiva que deve subsidiar a formulação, a execução e a avaliação do projeto político-pedagógico da escola de Educação Básica.",
+    "description-two": "II- Orientar os cursos de formação inicial e continuada de docentes e demais profissionais da Educação Básica, os sistemas educativos dos diferentes entes federados e as escolas que os integram, indistintamente da rede a que pertençam.",
+    "description-three": "III- Sistematizar os princípios e as diretrizes gerais da Educação Básica contidos na Constituição, na Lei de Diretrizes e Bases da Educação Nacional (LDB) e demais dispositivos legais, traduzindo-os em orientações que contribuam para assegurar a formação básica comum nacional, tendo como foco os sujeitos que dão vida ao currículo e à escola.",
+    "sub-title": "Estão CORRETAS:",
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "I e II, apenas",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "I e III, apenas",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "I, II e III, todos",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "II e III, apenas",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "Nenhuma das alternativas",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "3500",
+    "number-question": "11",
+    "title": "Assinale a alternativa correta quanto à composição da Educação Básica.",
+    "description-one": "",
+    "description-two": "",
+    "description-three": "",
+    "sub-title": "",
+
+    "answers": [
+      {
+        "id": 1,
+        "title": "a",
+        "text": "Fazem parte da Educação Básica: EI, EF e EM.",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "title": "b",
+        "text": "A Educação Infantil não faz parte da Educação Básica.",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "title": "c",
+        "text": "Somente o EM faz parte da EB.",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "text": "A Educação Básica é composta por Ensino Médio e graduação.",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "title": "e",
+        "text": "O Ensino Médio não faz parte da Educação Básica.",
+        "checked": false
+      }
+    ]
+  }
+]
