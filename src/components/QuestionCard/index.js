@@ -3,8 +3,6 @@ import * as S from "./styled";
 import CheckInput from "../Check";
 
 const QuestionCard = ({ activeQuestion, toggleAnswer }) => {
-  console.log("activeQuestion", activeQuestion);
-
   return (
     !!activeQuestion && (
       <S.Container>

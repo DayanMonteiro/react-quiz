@@ -2,8 +2,8 @@ import { styled } from "../../theme";
 
 export const Container = styled("div", {
   marginTop: 0,
-  width: "100vw",
-  height: "8vh",
+  width: "100%",
+  height: "9vh",
   display: "flex",
   alignItems: "center",
   justifyContent: "center",
@@ -11,9 +11,5 @@ export const Container = styled("div", {
 });
 
 export const Logo = styled("img", {
-  width: "10rem",
-
-  "@desktop": {
-    width: "15rem",
-  },
+  width: "15rem",
 });

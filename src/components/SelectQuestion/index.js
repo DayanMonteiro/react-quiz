@@ -37,7 +37,6 @@ const SelectQuestion = ({ course }) => {
     <S.Container>
       <S.BoxSelectQuestion
         isShown={isShown}
-        // title={course?.name}
         onCloseComplete={() => setIsShown(false)}
         hasFooter={false}
         hasHeader={false}
@@ -80,7 +79,6 @@ const SelectQuestion = ({ course }) => {
                 const previousQuestion = questions.find(
                   (q) => q.id === activeQuestion.id - 1
                 );
-                console.log("activeQuestion", activeQuestion.id);
                 if (previousQuestion) {
                   setActiveQuestion(previousQuestion);
                 }
@@ -99,7 +97,7 @@ const SelectQuestion = ({ course }) => {
                 }
               }}
             >
-              Próximo{" "}
+              Próximo
             </Button>
           </S.ButtonsNextPrevious>
 

@@ -6,9 +6,6 @@ export const Container = styled("div", {
   padding: "1rem",
   maxHeight: "42rem",
   border: "1px solid $grey700",
-
-  // backgroundColor: "red",
-
   overflowX: "auto",
 });
 
@@ -60,8 +57,6 @@ export const SubTitle = styled("p", {
 
 export const BoxAnswer = styled("div", {
   paddingTop: "1rem",
-  // height: "8rem",
-  // backgroundColor: "red",
 });
 
 export const ContainerAnswer = styled("div", {
@@ -70,7 +65,6 @@ export const ContainerAnswer = styled("div", {
   display: "flex",
   alignItems: "flex-start",
   textAlign: "justify",
-  // height: "4rem",
 });
 
 export const Answer = styled("p", {

@@ -2,7 +2,6 @@ import { styled } from "../../theme";
 import {
   Dialog,
   Pane,
-  Text as TextEvergreen,
   Button as ButtonEvergreen,
   ChevronUpIcon,
   ThListIcon,
@@ -11,8 +10,6 @@ import {
 export const Container = styled("div", {
   display: "flex",
   justifyContent: "center",
-
-  // backgroundColor: "blue",
 });
 
 export const ContainerHeader = styled("div", {
@@ -22,33 +19,24 @@ export const ContainerHeader = styled("div", {
 
 export const BoxSelectQuestion = styled(Dialog, {
   border: "1px solid $grey700",
-  // position: "fixed",
-
   display: "flex",
   alignItems: "center",
   justifyContent: "center",
-
-  // backgroundColor: "red",
 });
 
 export const ContentBoxSelectionQuestion = styled(Pane, {
   width: "59vw",
   height: "68rem",
-
+  marginTop: "5rem",
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
   justifyContent: "flex-start",
-
-  marginTop: "5rem",
-
   borderRadius: "none",
-  // backgroundColor: "red",
 });
 
 export const Header = styled(Pane, {
   height: "5vh",
-
   display: "flex",
   alignItems: "center",
   justifyContent: "space-between",
@@ -70,7 +58,6 @@ export const IconButton = styled("button", {
   alignItems: "center",
   justifyContent: "center",
   border: "none",
-
   backgroundColor: "$cyan300",
 });
 
@@ -79,15 +66,12 @@ export const Icon = styled(ChevronUpIcon, {
 });
 
 export const Content = styled(Pane, {
-  // backgroundColor: "pink",
   display: "flex",
   flexDirection: "column",
-  // alignItems: "center",
   justifyContent: "center",
 });
 
 export const SubTitle = styled(Pane, {
-  // backgroundColor: "pink",
   height: "5rem",
   display: "flex",
   alignItems: "center",
@@ -127,19 +111,12 @@ export const ContainerButtons = styled("div", {
   marginTop: "0.1rem",
   height: "15rem",
   padding: "1rem",
-
-  // display: "flex",
-  // flexDirection: "row",
-  // justifyContent: "space-between",
   display: "grid",
   gridTemplateColumns: "20rem 20rem 20rem 20rem",
   columnGap: "0.7rem",
-
-  // flexWrap: "wrap",
 });
 
 export const ButtonsNextPrevious = styled("div", {
-  // backgroundColor: "$grey300",
   marginTop: "0.6rem",
   paddingLeft: "2rem",
   paddingRight: "2rem",

@@ -1,21 +1,16 @@
 import { styled } from "../../theme";
 
-export const Container = styled("div", {
-  // marginTop: "15rem",
-});
+export const Container = styled("div", {});
 
 export const Content = styled("div", {
-  // backgroundColor: "$grey300",
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
   justifyContent: "center",
-
   marginBottom: "10rem",
 });
 
 export const TextContainer = styled("div", {
-  // backgroundColor: "red",
   height: "12rem",
   display: "flex",
   flexDirection: "column",
@@ -38,7 +33,6 @@ export const SubTitle = styled("p", {
 });
 
 export const AboutContainer = styled("div", {
-  // backgroundColor: "$grey300",
   width: "100%",
   height: "28rem",
   padding: "5rem",
@@ -70,8 +64,6 @@ export const Text = styled("p", {
 export const ButtonContainer = styled("div", {
   width: "100%",
   display: "flex",
-  // flexDirection: "row",
-
   justifyContent: "flex-start",
 });
 
