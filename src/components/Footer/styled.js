@@ -7,6 +7,8 @@ export const Container = styled("div", {
   alignItems: "center",
   justifyContent: "space-around",
   backgroundColor: "$sky700",
+  position: "fixed",
+  bottom: 0,
 });
 
 export const Logo = styled("img", {

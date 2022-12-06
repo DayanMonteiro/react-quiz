@@ -53,8 +53,8 @@ const Home = () => {
               courses.map((course) => <SelectQuestion course={course} />)}
           </S.ButtonContainer>
         </S.SelectDiscipline>
+        <Footer />
       </S.Content>
-      <Footer />
     </S.Container>
   );
 };
