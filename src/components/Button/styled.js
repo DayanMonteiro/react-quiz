@@ -26,23 +26,24 @@ export const Button = styled("button", {
         borderRadius: "0.4rem",
 
         "&:hover": {
-          color: "$grey300",
-          backgroundColor: "$cyan200",
+          color: "$white",
+          backgroundColor: "$sky500",
         },
       },
       iconButton: {
         width: "10rem",
         height: "2rem",
         padding: "8px 0",
-        color: "$white",
-        backgroundColor: "$cyan300",
+        color: "$grey800",
+        backgroundColor: "$white",
+        border: "0.1rem solid $cyan300",
         fontWeight: "$bold",
         fontSize: "$xs",
         borderRadius: "0.4rem",
 
         "&:hover": {
-          color: "$cyan300",
-          backgroundColor: "$cyan100",
+          color: "$white",
+          backgroundColor: "$sky500",
         },
       },
       link: {
@@ -59,7 +60,7 @@ export const Button = styled("button", {
       },
     },
     active: {
-      true: { color: "$white", backgroundColor: "$cyan200" },
+      true: { color: "$white", backgroundColor: "$sky500" },
     },
   },
 });

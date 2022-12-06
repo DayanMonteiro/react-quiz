@@ -25,8 +25,8 @@ export const BoxSelectQuestion = styled(Dialog, {
 });
 
 export const ContentBoxSelectionQuestion = styled(Pane, {
-  width: "59vw",
-  height: "68rem",
+  width: "90rem",
+  height: "unset",
   marginTop: "5rem",
   display: "flex",
   flexDirection: "column",
@@ -119,9 +119,7 @@ export const ContainerButtons = styled("div", {
 
 export const ButtonsNextPrevious = styled("div", {
   marginTop: "0.6rem",
-  paddingLeft: "2rem",
-  paddingRight: "2rem",
-  width: "100%",
+  width: "94%",
   height: "2rem",
   display: "flex",
   justifyContent: "space-between",

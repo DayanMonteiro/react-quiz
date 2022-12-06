@@ -2,7 +2,7 @@ import { styled } from "../../theme";
 
 export const Container = styled("div", {
   width: "100%",
-  height: "10vh",
+  height: "7rem",
   display: "flex",
   alignItems: "center",
   justifyContent: "space-around",
