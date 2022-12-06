@@ -27,7 +27,7 @@ export const BoxSelectQuestion = styled(Dialog, {
 export const ContentBoxSelectionQuestion = styled(Pane, {
   width: "90rem",
   height: "unset",
-  marginTop: "5rem",
+  margin: "5rem auto 0",
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
