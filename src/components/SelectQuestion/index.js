@@ -64,6 +64,9 @@ const SelectQuestion = ({ course }) => {
                       variant="borderCyan"
                       key={question?.id}
                       onClick={() => setActiveQuestion(question)}
+                      active={
+                        question?.id === activeQuestion?.id ? "true" : "false"
+                      }
                     >
                       Exercício {question?.["number-question"]}
                     </Button>

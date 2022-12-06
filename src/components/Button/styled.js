@@ -58,5 +58,8 @@ export const Button = styled("button", {
         height: "3rem",
       },
     },
+    active: {
+      true: { color: "$white", backgroundColor: "$cyan200" },
+    },
   },
 });

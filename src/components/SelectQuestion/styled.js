@@ -59,6 +59,7 @@ export const IconButton = styled("button", {
   justifyContent: "center",
   border: "none",
   backgroundColor: "$cyan300",
+  cursor: "pointer",
 });
 
 export const Icon = styled(ChevronUpIcon, {

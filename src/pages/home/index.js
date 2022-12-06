@@ -7,8 +7,6 @@ import ImageSuper from "../../assets/img/super-ensino-home.svg";
 import SchoolSubjects from "../../mocks/school-subjects.json";
 
 const Home = () => {
-  let courses = SchoolSubjects;
-
   return (
     <S.Container>
       <Header />
@@ -49,8 +47,10 @@ const Home = () => {
           <S.Text>Click na disciplina para iniciar seu teste</S.Text>
 
           <S.ButtonContainer>
-            {!!courses &&
-              courses.map((course) => <SelectQuestion course={course} />)}
+            {!!SchoolSubjects &&
+              SchoolSubjects.map((course) => (
+                <SelectQuestion course={course} />
+              ))}
           </S.ButtonContainer>
         </S.SelectDiscipline>
         <Footer />
