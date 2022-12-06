@@ -1,16 +1,13 @@
 import React, { useState } from "react";
+import * as S from "./styled";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import SelectQuestion from "../../components/SelectQuestion";
-
 import ImageSuper from "../../assets/img/super-ensino-home.svg";
-
 import SchoolSubjects from "../../mocks/school-subjects.json";
 
-import * as S from "./styled";
-
 const Home = () => {
-  const [courses, setCourses] = useState(SchoolSubjects);
+  const [courses] = useState(SchoolSubjects);
 
   return (
     <S.Container>
