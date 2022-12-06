@@ -118,7 +118,7 @@ export const ContainerButtons = styled("div", {
 });
 
 export const ButtonsNextPrevious = styled("div", {
-  marginTop: "0.6rem",
+  margin: "1rem 0",
   width: "94%",
   height: "2rem",
   display: "flex",
