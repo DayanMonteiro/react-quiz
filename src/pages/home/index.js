@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import * as S from "./styled";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
@@ -7,7 +7,7 @@ import ImageSuper from "../../assets/img/super-ensino-home.svg";
 import SchoolSubjects from "../../mocks/school-subjects.json";
 
 const Home = () => {
-  const [courses] = useState(SchoolSubjects);
+  let courses = SchoolSubjects;
 
   return (
     <S.Container>
